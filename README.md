@@ -20,5 +20,3 @@ Visiting researcher at **Imperial College London** (August 2023 - April 2024) ðŸ
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 *Thanks for stopping by!*
-
-![Visitor Count](https://profile-counter.glitch.me/Guppy608/count.svg)  
