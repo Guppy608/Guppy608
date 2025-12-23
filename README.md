@@ -12,7 +12,7 @@ Visiting researcher at **Imperial College London** (August 2023 - April 2024) �
   - Richman 4 Invitational Tournament Super Fan  
   - Pokemon Leaderboard Top10 Spectator
 - ✍️ Technical writing at [Zhihu Column](https://www.zhihu.com/people/Guppy0608/posts)
-- 💬 Let's discuss algorithms or cats! [Start a convo](https://github.com/Guppy608/Guppy608/issues)
+- 💬 Let's discuss algorithms or cats!
 
 #### Tech Stack
 
