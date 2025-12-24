@@ -14,9 +14,4 @@ Visiting researcher at **Imperial College London** (August 2023 - April 2024) �
 - ✍️ Technical writing at [Zhihu Column](https://www.zhihu.com/people/Guppy0608/posts)
 - 💬 Let's discuss algorithms or cats!
 
-#### Tech Stack
-
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-
 *Thanks for stopping by!*
